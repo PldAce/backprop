@@ -1,0 +1,109 @@
+TestTableM31
+
+TestTableM31 =
+
+  26×2 <a href="matlab:helpPopup table" style="font-weight:bold">table</a>
+
+      <strong>TSET1</strong>       <strong>Hit_Miss</strong>
+    <strong>__________</strong>    <strong>________</strong>
+
+    'p1'            'H'   
+    'p2'            'H'   
+    'p3'            'H'   
+    'p4'            'H'   
+    'p5'            'H'   
+    'p6'            'H'   
+    'p7'            'H'   
+    'p8'            'H'   
+    'p9'            'H'   
+    'p10'           'H'   
+    'p11'           'H'   
+    'p12'           'H'   
+    'p13'           'H'   
+    'p14'           'H'   
+    'p15'           'H'   
+    'p16'           'H'   
+    'p17'           'H'   
+    'p18'           'H'   
+    'p19'           'H'   
+    'p20'           'H'   
+    'p21'           'H'   
+    'p22'           'H'   
+    'p23'           'H'   
+    'p24'           'H'   
+    'p25'           'H'   
+    'HitRatio'      [1]   
+
+TestTableM32
+
+TestTableM32 =
+
+  26×2 <a href="matlab:helpPopup table" style="font-weight:bold">table</a>
+
+      <strong>TSET2</strong>       <strong>Hit_Miss</strong>
+    <strong>__________</strong>    <strong>________</strong>
+
+    'p1'          'H'     
+    'p2'          'H'     
+    'p3'          'H'     
+    'p4'          'H'     
+    'p5'          'H'     
+    'p6'          'H'     
+    'p7'          'H'     
+    'p8'          'M'     
+    'p9'          'H'     
+    'p10'         'H'     
+    'p11'         'H'     
+    'p12'         'H'     
+    'p13'         'H'     
+    'p14'         'H'     
+    'p15'         'H'     
+    'p16'         'H'     
+    'p17'         'H'     
+    'p18'         'H'     
+    'p19'         'H'     
+    'p20'         'H'     
+    'p21'         'H'     
+    'p22'         'H'     
+    'p23'         'H'     
+    'p24'         'H'     
+    'p25'         'H'     
+    'HitRatio'    [0.9600]
+
+TestTableM33
+
+TestTableM33 =
+
+  26×2 <a href="matlab:helpPopup table" style="font-weight:bold">table</a>
+
+      <strong>TSET3</strong>       <strong>Hit_Miss</strong>
+    <strong>__________</strong>    <strong>________</strong>
+
+    'p1'          'H'     
+    'p2'          'H'     
+    'p3'          'H'     
+    'p4'          'H'     
+    'p5'          'H'     
+    'p6'          'H'     
+    'p7'          'H'     
+    'p8'          'M'     
+    'p9'          'H'     
+    'p10'         'H'     
+    'p11'         'H'     
+    'p12'         'H'     
+    'p13'         'H'     
+    'p14'         'H'     
+    'p15'         'H'     
+    'p16'         'H'     
+    'p17'         'H'     
+    'p18'         'H'     
+    'p19'         'H'     
+    'p20'         'H'     
+    'p21'         'H'     
+    'p22'         'H'     
+    'p23'         'H'     
+    'p24'         'H'     
+    'p25'         'H'     
+    'HitRatio'    [0.9600]
+
+diary off
